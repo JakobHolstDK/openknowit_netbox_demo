@@ -1,0 +1,8 @@
+# Define sites
+sites:
+  - name: Datacenter-01
+    slug: dc-01
+    facility: Main Datacenter
+    region: North America
+    comments: Primary datacenter location
+
